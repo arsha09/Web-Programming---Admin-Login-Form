@@ -1,0 +1,52 @@
+body {
+	background-image: url(pict_bg_registrasi.jpg);
+	background-color: #ffac75;
+	background-size: 100%;
+	font-family: sans-serif;
+}
+
+h3 {
+	color: #fff;
+}
+
+.login1 {
+	padding: 1em;
+	margin: 2em auto;
+	margin-top: 0px;
+	width: 17em;
+	background: #fff;
+	border-radius: 3px;
+}
+
+label {
+	font-size: 10pt;
+	color: #555;
+}
+
+input[type="text"],
+input[type="password"],
+textarea {
+	padding: 8px;
+	width: 95%;
+	background: #efefef;
+	border: 0;
+	font-size: 10pt;
+	margin: 6px 0px;
+}
+
+.tombol1 {
+	width: 100%;
+	display: inline-block;
+	font-size: 15px;
+	font-weight: bold;
+	cursor: pointer;
+	text-align: center;
+	text-decoration: none;
+	outline: none;
+	background: #26c759;
+	color: #fff;
+	border: 0;
+	border-radius: 10px;
+	padding: 10px 25px;
+	margin: 20px 0px;
+}
